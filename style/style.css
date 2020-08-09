@@ -28,7 +28,7 @@ a {
 .nav .left {
 	text-align: left;
 	color: #474747;
-	font-size: 25px;
+	font-size: 20px;
 }
 
 .nav .left:hover {
@@ -38,7 +38,7 @@ a {
 .nav .right {
 	float: right;
 	color: #474747;
-	font-size: 25px;
+	font-size: 20px;
 	margin-left: 5%;
 }
 
@@ -58,21 +58,21 @@ a {
 	text-align: left;
 	margin-left: auto;
 	margin-right: auto;
-	padding-top: 15%;
+	padding-top: 10%;
 	padding-bottom: 10%;
 	width: 50%;
-	font-size: 22px;
+	font-size: 20px;
 	line-height: 1.8em;
 	color: #474747;
 }
 
 .underline {
-	color: #19d4af;
+	color: #08b2c4;
 	border-bottom: 2px dotted #999999;
 }
 
 .underline:hover {
-	color: #19d4af;
+	color: #08b2c4;
 	border-bottom: 3px dotted #16a085;
 }
 
@@ -83,7 +83,7 @@ a {
 }
 
 .link:hover {
-	color: #19d4af;
+	color: #08b2c4;
 }
 
 .subtitle {
