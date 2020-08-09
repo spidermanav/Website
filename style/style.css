@@ -15,7 +15,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: #777777;
+	color: #474747;
 }
 
 .nav {
@@ -27,7 +27,7 @@ a {
 
 .nav .left {
 	text-align: left;
-	color: #777777;
+	color: #474747;
 	font-size: 15px;
 }
 
@@ -37,7 +37,7 @@ a {
 
 .nav .right {
 	float: right;
-	color: #777777;
+	color: #474747;
 	font-size: 15px;
 	margin-left: 5%;
 }
