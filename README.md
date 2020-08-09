@@ -1,3 +1,2 @@
-# manav-kainth
+# Manav Kainth
 
-Hello :) 
