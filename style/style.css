@@ -67,7 +67,7 @@ a {
 }
 
 .underline {
-	color: #08b2c4;
+	color: #d15454;
 	border-bottom: 2px dotted #999999;
 }
 
@@ -83,7 +83,7 @@ a {
 }
 
 .link:hover {
-	color: #08b2c4;
+	color: #d15454;
 }
 
 .subtitle {
